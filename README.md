@@ -22,17 +22,17 @@
 
 ### Социальные сети:
 
-[Github](https://github.com/GeorgiiGalechyan/)
-[Facebook](https://www.facebook.com/georgi.galechian)
-[Instagram](https://www.instagram.com/georgiigalechian/)
+[Github](https://github.com/GeorgiiGalechyan/)  
+[Facebook](https://www.facebook.com/georgi.galechian)  
+[Instagram](https://www.instagram.com/georgiigalechian/)  
 [VK](https://vk.com/yurist_77)
 
 ### Мессенджеры:
 
-WhatsApp: +79030238585
+WhatsApp: +79030238585  
 Telegram: @georgy23
 
 ### Классические контакты
 
-Телефон: [+7-903-023-85-85](tel:+79030238585)
-E-mail: [galechyan1991@gmail.com](mailto: galechyan1991@gmail.com)
+Телефон: [+7-903-023-85-85](tel:+79030238585)  
+E-mail: [galechyan1991@gmail.com]
