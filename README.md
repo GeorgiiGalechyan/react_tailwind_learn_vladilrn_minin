@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+# Добро пожаловать во фронтенд-часть приложения "Лотерея"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Клиентская часть приложения создана с использованием:
 
-## Available Scripts
+1. [react, typescript](https://create-react-app.dev/docs/getting-started)
+2. [tailwind](https://tailwindcss.com/docs/guides/create-react-app)
 
-In the project directory, you can run:
+## Документация
 
-### `npm start`
+Всю документацию по клиентской части можно прочитать [здесь](https://github.com/GeorgiiGalechyan/frontend-lottery-draft)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Серверная часть приложения находится [здесь](https://github.com/GeorgiiGalechyan/backend-lottery-draft)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Краткое описание игры
 
-### `npm test`
+## Задачи, стоящие при разработке клиентской части
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Изучить стек react + tailwind на практиктике
+2. Изучить RSx, Typescript
 
-### `npm run build`
+## Контакты автора
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Социальные сети:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Github](https://github.com/GeorgiiGalechyan/)
+[Facebook](https://www.facebook.com/georgi.galechian)
+[Instagram](https://www.instagram.com/georgiigalechian/)
+[VK](https://vk.com/yurist_77)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Мессенджеры:
 
-### `npm run eject`
+WhatsApp: +79030238585
+Telegram: @georgy23
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Классические контакты
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Телефон: [+7-903-023-85-85](tel:+79030238585)
+E-mail: [galechyan1991@gmail.com](mailto: galechyan1991@gmail.com)
