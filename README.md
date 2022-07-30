@@ -1,24 +1,8 @@
-# Добро пожаловать во фронтенд-часть приложения "Лотерея"
+# Прохождение туториала от Владимлена Минина по React + TypeScript + Tailwind (2022).
 
-Клиентская часть приложения создана с использованием:
+Посмотреть краткий курс на ютубе можно [здесь](https://www.youtube.com/watch?v=OJ16BaPC6VI&t)
 
-1. [react, typescript](https://create-react-app.dev/docs/getting-started)
-2. [tailwind](https://tailwindcss.com/docs/guides/create-react-app)
-
-## Документация
-
-Всю документацию по клиентской части можно прочитать [здесь](https://github.com/GeorgiiGalechyan/frontend-lottery-draft)
-
-Серверная часть приложения находится [здесь](https://github.com/GeorgiiGalechyan/backend-lottery-draft)
-
-## Краткое описание игры
-
-## Задачи, стоящие при разработке клиентской части
-
-1. Изучить стек react + tailwind на практиктике
-2. Изучить RSx, Typescript
-
-## Контакты автора
+## Мои контакты:
 
 ### Социальные сети:
 
